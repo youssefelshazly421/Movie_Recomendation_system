@@ -107,18 +107,17 @@ These values reflect the evaluation recorded in the notebook. They are not recal
 
 This project is intended for educational and demonstration purposes. Recommendations are generated from the MovieLens dataset and may not reflect every user's actual preferences.
 
+Dataset
 
-## 📄 Dataset License and Usage
+This project uses the MovieLens Latest Small dataset.
 
-The MovieLens `ml-latest-small` dataset is provided by GroupLens Research. Redistribution is permitted subject to the dataset's original license conditions.
+- Download dataset: "MovieLens Latest Small on Kaggle" (https://www.kaggle.com/datasets/grouplens/movielens-latest-small?resource=download)
+- Original source: "GroupLens MovieLens Datasets" (https://grouplens.org/datasets/movielens/latest/)
 
-- The dataset is intended for research purposes.
-- Commercial or revenue-generating use requires prior permission from a faculty member of the GroupLens Research Project.
-- Do not imply endorsement by the University of Minnesota or GroupLens Research.
-- Please retain the original dataset README and license terms when redistributing the dataset.
+Download and extract the dataset into the project directory. The application expects the "ml-latest-small" folder to contain "movies.csv" and "ratings.csv".
 
-**Dataset source:** [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
+Please review the dataset's original README and usage terms before use. The dataset is provided by GroupLens Research; this project is not affiliated with or endorsed by GroupLens or the University of Minnesota.
 
-**Citation:** Harper, F. M., & Konstan, J. A. (2015). *The MovieLens Datasets: History and Context.* ACM Transactions on Interactive Intelligent Systems, 5(4), Article 19. https://doi.org/10.1145/2827872
+Dataset Citation
 
-
+Harper, F. Maxwell, and Joseph A. Konstan. 2015. “The MovieLens Datasets: History and Context.” ACM Transactions on Interactive Intelligent Systems (TiiS) 5(4): 19:1–19:19. https://doi.org/10.1145/2827872
