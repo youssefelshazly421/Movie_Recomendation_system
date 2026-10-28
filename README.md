@@ -107,8 +107,18 @@ These values reflect the evaluation recorded in the notebook. They are not recal
 
 This project is intended for educational and demonstration purposes. Recommendations are generated from the MovieLens dataset and may not reflect every user's actual preferences.
 
+
 ## 📄 Dataset License and Usage
 
-The MovieLens dataset is provided by GroupLens Research and is subject to its applicable terms of use. Review the official [MovieLens dataset page](https://grouplens.org/datasets/movielens/latest/) before redistributing the dataset.
+The MovieLens `ml-latest-small` dataset is provided by GroupLens Research. Redistribution is permitted subject to the dataset's original license conditions.
 
-This repository documents the recommendation system code and does not need to include the dataset files.
+- The dataset is intended for research purposes.
+- Commercial or revenue-generating use requires prior permission from a faculty member of the GroupLens Research Project.
+- Do not imply endorsement by the University of Minnesota or GroupLens Research.
+- Please retain the original dataset README and license terms when redistributing the dataset.
+
+**Dataset source:** [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
+
+**Citation:** Harper, F. M., & Konstan, J. A. (2015). *The MovieLens Datasets: History and Context.* ACM Transactions on Interactive Intelligent Systems, 5(4), Article 19. https://doi.org/10.1145/2827872
+
+
